@@ -1,0 +1,10 @@
+{
+  "name": "if-localhost",
+  "description": "A Web-Component that tells you when you're on localhost, so you no longer wonder why your changes have no effect.",
+  "version": "0.1.0",
+  "type": "module",
+  "files": [
+    "lib/mod.js"
+  ],
+  "module": "./lib/mod.js"
+}
